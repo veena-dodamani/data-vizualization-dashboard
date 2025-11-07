@@ -1,0 +1,4 @@
+/* src/index.css - very simple base styles */
+body { font-family: Arial, Helvetica, sans-serif; background: #fafafa; margin: 0; }
+select { padding: 6px 8px; border-radius: 4px; border: 1px solid #ccc; }
+button { padding: 6px 10px; border-radius: 4px; border: 1px solid #bbb; background: #fff; cursor: pointer; }
